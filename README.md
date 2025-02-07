@@ -1,15 +1,28 @@
-# Calculator_App
+# Calculator Web App 🧮
 
-Basic Calculator Web App.
-It does whatever a calculator app should do. What else to say.
+A sleek and intuitive web-based calculator that handles basic to intermediate mathematical operations while adhering to arithmetic principles. Perfect for quick calculations!
 
-### Supported functions:
+## Features ✨
 
-- subtraction
-- addition
-- division
-- multiplication
-- square root extraction
-- second degree square root
-- brackets
-- maintained the rules of counting
+- **Core Operations**
+  - ➕ Addition
+  - ➖ Subtraction
+  - ✖️ Multiplication
+  - ➗ Division
+- **Advanced Functions**
+  - √ Square root extraction
+  - x² Squaring (second power)
+  - ( ) Parentheses support
+- **Smart Calculations**
+  - Follows PEMDAS/BODMAS rules
+  - Error handling (e.g., division by zero)
+  - Clean display with history tracking
+  - Responsive design
+
+**Interface Guide:**
+1. Click buttons or use keyboard input
+2. `C` clears all entries
+3. `⌫` deletes last character
+4. `=` shows result
+5. `√` calculates square root
+6. `x²` squares the current number
